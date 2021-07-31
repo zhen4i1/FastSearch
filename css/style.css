@@ -481,6 +481,9 @@ li{
      .container{
          width: 540px;
      }
+     .option__title {
+    width: 307px;
+}
      .help__about {
         width: 427px;
         text-align: center;
