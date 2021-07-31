@@ -481,6 +481,62 @@ li{
      .container{
          width: 540px;
      }
+     .text__title-item {
+    width: 292px;
+   
+}
+     .ans__title {
+    width: 194px;
+}
+     .photo__title-item {
+    width: 299px;
+}
+     .about__photo {
+    width: 330px;
+}
+     .photo__title {
+   
+    margin-top: 20px;
+}
+     .blod__holder{
+         width:330px;
+         )
+         .photo {
+ 
+    font-size: 11px;
+}
+         .photo__title {
+    
+    font-size: 18px;
+}
+         .blog__title {
+    width: 317px;
+}
+         .contact__title {
+    width: 323px;
+}
+         
+         .input {
+    width: 323px;
+    
+}
+         .input__title {
+   
+    width: 323px;
+  
+}
+         .btn__title {
+ 
+    width: 146px;
+   
+}
+ .map__title{
+     width:318px;}
+         
+ .wrapper__data {
+  
+    flex-wrap: wrap;
+}        
      .option__title {
     width: 300px;
 }
